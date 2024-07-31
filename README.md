@@ -7,7 +7,7 @@ You can view a demo of the app:  https://www.linkedin.com/posts/ahmed-mohamed-40
 
 
 ## Features
-
+all the project is ui only
 - **About Us:** A simple UI page that provides information about the team members who worked on this project.
 - **Start Screen:** The onboarding page that introduces new users to the app.
 - **Login Page:** A login interface (UI only, no authentication implemented).
