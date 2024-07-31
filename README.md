@@ -1,16 +1,39 @@
-# graduatedproject
+# Student and Doctor Schedule App
 
-A new Flutter project.
+This Flutter project is designed to help students and doctors manage and view their schedules efficiently. Below is a detailed explanation of the project structure and its features. 
+## Demo and  Story Behind the Project
+
+You can view a demo of the app:  https://www.linkedin.com/posts/ahmed-mohamed-401886240_flutter-project-experience-collaborative-activity-7208124393758109697-oYLE?utm_source=share&utm_medium=member_desktop
+
+
+## Features
+
+- **About Us:** A simple UI page that provides information about the team members who worked on this project.
+- **Start Screen:** The onboarding page that introduces new users to the app.
+- **Login Page:** A login interface (UI only, no authentication implemented).
+- **Home Page:** 
+  - **For Students:** Displays their schedule.
+  - **For Doctors:** Displays their schedule with some editing capabilities.
+- **Search Page:** Allows users to search for various items (UI only).
+- **Material Screen:** 
+  - **For Students:** Shows lectures or sections, which they cannot edit.
+  - **For Doctors:** Allows editing of lectures or sections.
+- **Layout Screen:** Enables toggling between all the screens in the app.
+
+## Project Structure
+
+The main code for the app is located in the `lib` folder, organized into different modules for each screen and functionality.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart
+- A code editor like VS Code or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone <https://github.com/AHMED9937/flutterProject>
