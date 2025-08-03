@@ -1,4 +1,4 @@
-# Student and Doctor Schedule App
+# Pen Flutter App  
 
 This Flutter project is designed to help students and doctors manage and view their schedules efficiently. Below is a detailed explanation of the project structure and its features. 
 ## Demo and  Story Behind the Project
