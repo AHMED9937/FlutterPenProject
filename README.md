@@ -21,6 +21,7 @@ all the project is ui only
 - **Layout Screen:** Enables toggling between all the screens in the app.
 
 ## Project Structure
+```
 lib/
 ├── main.dart
 ├── assets/
@@ -48,6 +49,7 @@ lib/
 │ └── startscreen.dart
 └── widgets/
 └── onboarding.dart
+```
 
 ## Getting Star
 
