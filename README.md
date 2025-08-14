@@ -51,7 +51,6 @@ lib/
 └── onboarding.dart
 ```
 
-## Getting Star
 
 ## Getting Started
 
