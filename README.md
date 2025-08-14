@@ -49,7 +49,6 @@ lib/
 └── widgets/
 └── onboarding.dart
 
-
 ## Getting Star
 
 ## Getting Started
