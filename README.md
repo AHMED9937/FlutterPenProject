@@ -21,34 +21,36 @@ all the project is ui only
 - **Layout Screen:** Enables toggling between all the screens in the app.
 
 ## Project Structure
-
 lib/
-    ├── main.dart
-    ├── assets/
-    │   └── images/
-    └── modules/
-        ├── about_of_us/
-        │   └── aboutofus_screen.dart
-        ├── HomeScreen/
-        │   ├── HomeScreen.dart
-        │   ├── myList.dart
-        │   └── tables.dart
-        ├── layoutScreen/
-        │   └── layoutscreen.dart
-        ├── Lectures_sections/
-        │   ├── Lec_sec.dart
-        │   └── lecscreen.dart
-        ├── login/
-        │   ├── forgetpassword.dart
-        │   └── loginscreen.dart
-        ├── materialscreen/
-        │   └── materialscreen.dart
-        ├── searchscreen/
-        │   └── searchscreen.dart
-        ├── startscreen/
-        │   └── startscreen.dart
-        └── widgets/
-            └── onboarding.dart
+├── main.dart
+├── assets/
+│ └── images/
+└── modules/
+├── about_of_us/
+│ └── aboutofus_screen.dart
+├── HomeScreen/
+│ ├── HomeScreen.dart
+│ ├── myList.dart
+│ └── tables.dart
+├── layoutScreen/
+│ └── layoutscreen.dart
+├── Lectures_sections/
+│ ├── Lec_sec.dart
+│ └── lecscreen.dart
+├── login/
+│ ├── forgetpassword.dart
+│ └── loginscreen.dart
+├── materialscreen/
+│ └── materialscreen.dart
+├── searchscreen/
+│ └── searchscreen.dart
+├── startscreen/
+│ └── startscreen.dart
+└── widgets/
+└── onboarding.dart
+
+
+## Getting Star
 
 ## Getting Started
 
